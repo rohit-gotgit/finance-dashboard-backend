@@ -126,6 +126,6 @@ http://localhost:5000
 - Advanced analytics  
 - Rate limiting  
 - Testing (unit + integration)  
-- Docker support  
+- Docker supp
 
 ---
