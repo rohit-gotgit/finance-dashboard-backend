@@ -1,6 +1,6 @@
 # Finance Backend
 
-A production-ready backend system for managing financial transactions with secure authentication, role-based access control, and analytic
+A production-ready backend system for managing financial transactions with secure authentication, role-based access control, and analytics.
 
 ---
 
