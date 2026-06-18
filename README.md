@@ -7,7 +7,6 @@ A production-ready backend system for managing financial transactions with secur
 ## **Description**
 
 Finance Backend is a RESTful API designed to securely manage financial data. It supports multiple user roles, enforces strict access control, and provides structured transaction handling with analytics capabilities.
-
 ---
 
 ## **Core Features**
